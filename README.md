@@ -1,7 +1,7 @@
 A collection of supporting data, scripts, and information for the various analyses posted to ErieProtectors.com and our social media platforms. Collaboration is invited and encouraged.
 
 ## Our Socials
-Visit us on our web site or follow us on our social platforms.
+Visit us on our web site and follow us on our social platforms. Full analyses are available on our web site; we'll post smaller charts and graphs to our socials. For convenience, additional links are also available at https://linktr.ee/erieprotectors
 
 | Site      | URL                                       |
 | --------- | ----------------------------------------- |
